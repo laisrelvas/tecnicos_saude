@@ -1,4 +1,4 @@
-# Características das escolas, turmas e matrículas da educação básica com cursos técnicos da saúde. 
+# Características das escolas, turmas e matrículas da educação básica com cursos técnicos da saúde, em Goiás, Pernambuco, Maranhão, Rio Grande do Sul e Rondônia, 2020. 
 Os scripts disponibilizados neste repositório foram elaborados no âmbito do projeto “MONITORAMENTO DA OFERTA DE RHS (PROFISSIONAIS DE SAÚDE) NO NÍVEL ESTADUAL", liderado pelo professor Mário Dal Pós (CEPESC/IMS/UERJ), e foram dispomobilizados publicamente em comum acordo com o grupo de pesquisa. Dentro do projeto, os objetivos deste estudo foram: caracterizar as escolas, turmas e matrículas da educação básica com cursos técnicos da saúde no ano de 2020 para Goiás, Pernambuco, Maranhão, Rio Grande do Sul e Rondônia; calcular a completude das variáveis disponíveis na três bases de dados utilizadas no estudo (escolas, matrículas e turmas), considerando todos os registros no Brasil. 
 
 # Fluxo de trabalho
