@@ -1,1 +1,1 @@
-# tecnicos_saude
+#  Os scripts disponibilizados neste repositório foram elaborados no âmbito do projeto “MONITORAMENTO DA OFERTA DE RHS (PROFISSIONAIS DE SAÚDE) NO NÍVEL ESTADUAL", liderado pelo professor Mário Dal Pós, CEPESC/IMS/UERJ.
