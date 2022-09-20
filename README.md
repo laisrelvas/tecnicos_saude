@@ -2,6 +2,7 @@
 Os scripts disponibilizados neste repositório foram elaborados no âmbito do projeto “MONITORAMENTO DA OFERTA DE RHS (PROFISSIONAIS DE SAÚDE) NO NÍVEL ESTADUAL", liderado pelo professor Mário Dal Pós (CEPESC/IMS/UERJ), e foram dispomobilizados publicamente em comum acordo com o grupo de pesquisa. Dentro do projeto, os objetivos deste estudo foram: caracterizar as escolas, turmas e matrículas da educação básica com cursos técnicos da saúde no ano de 2020 para Goiás, Pernambuco, Maranhão, Rio Grande do Sul e Rondônia; calcular a completude das variáveis disponíveis na três bases de dados utilizadas no estudo (escolas, matrículas e turmas), considerando todos os registros no Brasil. 
 
 # Fluxo de trabalho
+Neste repositório são encontradas duas pastas: scripts e resultados. Na pasta scripts foram salvos 5 scripts numerados que devem ser executados em sequencia. Na pasta resultados encontram-se 3 planilhas eletrônicas com dados utilizados no projeto. 
 
 #  Notas metodológicas
 Foi realizado estudo descritivo dos dados registrados no censo da educação básica realizado no Brasil em 2020, tendo como fonte os microdados disponibilizados pelos Instituto Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (BRASIL, 2021). Foram contempladas características das escolas, matrículas e turmas, de acordo com as seguintes variáveis de interesse:
